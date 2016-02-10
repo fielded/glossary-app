@@ -1,9 +1,9 @@
 {
   "name": "Glossary App Manifest",
-  "version": "@@VERSION@@",
+  "version": "3.0.0",
   "app": {
     "urls": [
-      "@@URL@@"
+      "http://glossary.martynus.net/"
     ],
     "launch": {
       "web_url": "http://mail.google.com/mail/"
